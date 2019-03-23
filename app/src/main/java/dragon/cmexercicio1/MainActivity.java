@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     //logt gera esta private string
     private static final String TAG = "MainActivity";
     private Button button;
+    //abc
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
